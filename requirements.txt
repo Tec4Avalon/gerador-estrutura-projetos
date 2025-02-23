@@ -1,0 +1,9 @@
+# Dependências do projeto (Python)
+
+# Nenhuma dependência externa é necessária para os módulos atuais.
+
+# Se for usar Flask para o frontend ou pytest para testes, adicione:
+Flask==2.3.2
+pytest==7.4.0
+Jinja2==3.1.2
+flask-cors==3.1.1  # Caso esteja usando CORS para comunicação entre frontend e backend
